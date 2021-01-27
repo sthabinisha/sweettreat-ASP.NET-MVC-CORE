@@ -61,9 +61,8 @@ footer {
 }
 
 .navbar-inverse {
-    background-color: #a593c2;
-    border-color: #a593c2;
-  
+    background-color: #53b7d2;
+    border-color: #53b7d2;
 }
 
 .nav.navbar-nav.navbar-right li a {
@@ -90,13 +89,12 @@ footer {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
-
-    background-color: #fcaeae !important;
-    border-color: #fba1a1 !important;
+    background-color: #337ab7 !important;
+    border-color: #2e6da4 !important;
 }
 
-.btn
-{
-    background-color: #fcaeae !important;
-    border-color: #fba1a1 !important;
+.btn {
+  
+    background-color: #337ab7 !important;
+    border-color: #2e6da4 !important;
 }
